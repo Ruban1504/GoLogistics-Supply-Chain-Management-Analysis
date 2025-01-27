@@ -1,5 +1,8 @@
 # Go-Logistics -  Last-Mile Logistics Optimization
 
+![picture](https://imgur.com/mYRbiRM.png)
+![picture](https://imgur.com/UUZQ8mv.png)
+
 ## Overview
 This repository contains a project focused on optimizing last-mile logistics operations using **Business Intelligence (BI)**  and **Data Analysis** techniques. It leverages the **last Miles Dataset** to improve delivery efficiency, reduce costs, and enhance customer satisfaction.
 
